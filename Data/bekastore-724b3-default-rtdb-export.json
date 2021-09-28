@@ -1,0 +1,627 @@
+{
+  "BekaStore" : {
+    "Acesso" : {
+      "Jordan1" : {
+        "senha" : 8884,
+        "usuario" : "rayovac"
+      },
+      "Pedro2" : {
+        "senha" : 8884,
+        "usuario" : "user"
+      }
+    },
+    "Destaques" : {
+      "X6tMdwONKpRbIclBMEj82D2A2y4211" : {
+        "desc" : "O Sabonete Primer Make up Dermachem Laboratory proporciona uma hidratação 3 D deixando a pele mais macia e aveludada, suavizando as linhas de expressão e os poros abertos, preparando a pele para receber maquiagem , removendo o excesso de oleosidade.\n\nMAKE OUT – Removedor de Maquiagem 3 em 1! Oil Free\nO Sabonete Demaquilante Make Out Dermachem Laboratory, proporcionam a remoção da maquiagem rápida e eficiente 3 em 1. Podendo ser usado de 3 maneiras práticas: \n\n1° demaquilante de banho , usar durante o banho;\n2° demaquilante lavabo, usar lavando o rosto na pia;\n3° demaquilante tradicional usando com disco de algodão ou bastonetes. \n.\n.\n.\n.\n.\nsabonete pré make - R$ 12,00\nSabonete pós make - R$ 12,00",
+        "id" : "9f5ed469-d856-468e-9697-4df88871b632",
+        "id_fav" : "X6tMdwONKpRbIclBMEj82D2A2y4211",
+        "imagem1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FSabonete%20Primer%20Make%20up%20Dermachem%20Laboratory%2F9f5ed469-d856-468e-9697-4df88871b632?alt=media&token=dfc9716f-f4eb-4305-ae72-eb1b22423081",
+        "imagem1id" : "9f5ed469-d856-468e-9697-4df88871b632",
+        "imagem2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FSabonete%20Primer%20Make%20up%20Dermachem%20Laboratory%2F9f5ed469-d856-468e-9697-4df88871b6321?alt=media&token=67dd0f96-58a9-4f6f-906b-3a570caf3542",
+        "imagem2id" : "9f5ed469-d856-468e-9697-4df88871b6322",
+        "imagem3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FSabonete%20Primer%20Make%20up%20Dermachem%20Laboratory%2F9f5ed469-d856-468e-9697-4df88871b6322?alt=media&token=e4828c88-e514-4f5c-8685-29d94e35087e",
+        "imagem3id" : "9f5ed469-d856-468e-9697-4df88871b6324",
+        "imagem4" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FSabonete%20Primer%20Make%20up%20Dermachem%20Laboratory%2F9f5ed469-d856-468e-9697-4df88871b6323?alt=media&token=3999284e-b68f-4124-ac72-a67d504ac38b",
+        "imagem4id" : "9f5ed469-d856-468e-9697-4df88871b6323",
+        "nome" : "Sabonete Primer Make up Dermachem Laboratory",
+        "preco" : "12.00"
+      },
+      "X6tMdwONKpRbIclBMEj82D2A2y4213" : {
+        "desc" : "O Prep+Primer Feels Ruby Rose é perfeito para a sua preparação de pele pois ajuda a cobrir imperfeições e auxilia na redução da aparência dos poros e linhas finas. Sua cobertura translúcida proporciona um efeito leve e aveludado enquanto prolonga a duração da make.\n\nContém: 29ml",
+        "id" : "bafa16d4-04ab-43f2-83b8-88db8bb94404",
+        "id_fav" : "X6tMdwONKpRbIclBMEj82D2A2y4213",
+        "imagem1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FPrep%20%2B%20Primer%20Facial%20Feels%20Ruby%20Rose%2Fbafa16d4-04ab-43f2-83b8-88db8bb94404?alt=media&token=d8b5b21a-a7b7-4c58-84cd-a4465ca45fd9",
+        "imagem1id" : "bafa16d4-04ab-43f2-83b8-88db8bb94404",
+        "imagem2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FPrep%20%2B%20Primer%20Facial%20Feels%20Ruby%20Rose%2Fbafa16d4-04ab-43f2-83b8-88db8bb944041?alt=media&token=2e117e51-2a87-45ca-a3e4-c471ff7adde9",
+        "imagem2id" : "bafa16d4-04ab-43f2-83b8-88db8bb944042",
+        "imagem3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FPrep%20%2B%20Primer%20Facial%20Feels%20Ruby%20Rose%2Fbafa16d4-04ab-43f2-83b8-88db8bb944042?alt=media&token=7ff1d1b1-fc68-4b77-acd0-fef20bdeb94c",
+        "imagem3id" : "bafa16d4-04ab-43f2-83b8-88db8bb944043",
+        "imagem4" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FPrep%20%2B%20Primer%20Facial%20Feels%20Ruby%20Rose%2Fbafa16d4-04ab-43f2-83b8-88db8bb944043?alt=media&token=d4e0909e-b625-4ea1-aee9-0229e7b19d4d",
+        "imagem4id" : "bafa16d4-04ab-43f2-83b8-88db8bb944044",
+        "nome" : "Prep + Primer Facial Feels Ruby Rose",
+        "preco" : "26.00"
+      },
+      "X6tMdwONKpRbIclBMEj82D2A2y4217" : {
+        "desc" : "Modo de uso:\n\nMolhe a esponja com água e insira seu gel/creme de limpeza favorito na parte inferior.\nAperte-a suavemente repetidas vezes, até que a espuma apareça no topo.\nUse a parte superior para limpeza do rosto através de movimentos circulares.\nUse a parte inferior para massagear a pele após a limpeza, com movimentos circulares, começando pelo centro do rosto.",
+        "id" : "e3dbc172-945e-4843-bf7f-aa99db3a7fa7",
+        "id_fav" : "X6tMdwONKpRbIclBMEj82D2A2y4217",
+        "imagem1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FPolvo%20Limpeza%20Facial%2Fe3dbc172-945e-4843-bf7f-aa99db3a7fa7?alt=media&token=2518f27d-d10c-4115-8a2b-7b9a9639d106",
+        "imagem1id" : "e3dbc172-945e-4843-bf7f-aa99db3a7fa7",
+        "imagem2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FPolvo%20Limpeza%20Facial%2Fe3dbc172-945e-4843-bf7f-aa99db3a7fa71?alt=media&token=3c9b3f02-0bc3-43ea-8bac-c3f0562984d2",
+        "imagem2id" : "e3dbc172-945e-4843-bf7f-aa99db3a7fa71",
+        "imagem3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FPolvo%20Limpeza%20Facial%2Fe3dbc172-945e-4843-bf7f-aa99db3a7fa72?alt=media&token=bcd6630b-e920-4c49-9545-a37f27252ea2",
+        "imagem3id" : "e3dbc172-945e-4843-bf7f-aa99db3a7fa73",
+        "imagem4" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FPolvo%20Limpeza%20Facial%2Fe3dbc172-945e-4843-bf7f-aa99db3a7fa73?alt=media&token=e8c4933c-bc2b-4dbb-bede-736b0212cca7",
+        "imagem4id" : "e3dbc172-945e-4843-bf7f-aa99db3a7fa74",
+        "nome" : "Polvo Limpeza Facial",
+        "preco" : "8.90"
+      },
+      "X6tMdwONKpRbIclBMEj82D2A2y422" : {
+        "desc" : "O Sérum Facial Colágeno Max Love foi desenvolvido para quem busca uma aparência de pele mais saudável e jovem.\n\nPor conta do colágeno em sua composição, contribui com a saúde da pele, auxiliando no fortalecimento, hidratação e elasticidade.\n\nSua poderosa fórmula somam os efeitos dos extratos de camomila, algas marinhas, alecrim, chá verde e pepino.",
+        "id" : "3e5c8c47-3b61-44de-b50e-9d50f60b6b3a",
+        "id_fav" : "X6tMdwONKpRbIclBMEj82D2A2y422",
+        "imagem1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Col%C3%A1geno%20Max%20Love%2F3e5c8c47-3b61-44de-b50e-9d50f60b6b3a?alt=media&token=13ec6dd0-5735-4b31-9d22-eca937da3aa2",
+        "imagem1id" : "3e5c8c47-3b61-44de-b50e-9d50f60b6b3a",
+        "imagem2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Col%C3%A1geno%20Max%20Love%2F3e5c8c47-3b61-44de-b50e-9d50f60b6b3a1?alt=media&token=192701e5-c817-43ed-be8e-e0f04828be95",
+        "imagem2id" : "3e5c8c47-3b61-44de-b50e-9d50f60b6b3a1",
+        "imagem3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Col%C3%A1geno%20Max%20Love%2F3e5c8c47-3b61-44de-b50e-9d50f60b6b3a2?alt=media&token=8bc603c5-d771-4136-bdad-bd0ddb86d702",
+        "imagem3id" : "3e5c8c47-3b61-44de-b50e-9d50f60b6b3a3",
+        "imagem4" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Col%C3%A1geno%20Max%20Love%2F3e5c8c47-3b61-44de-b50e-9d50f60b6b3a3?alt=media&token=b39320e8-f066-45da-a887-a75c3e544835",
+        "imagem4id" : "3e5c8c47-3b61-44de-b50e-9d50f60b6b3a4",
+        "nome" : "Sérum Facial Colágeno Max Love",
+        "preco" : "14.90"
+      },
+      "quantidade" : 0
+    },
+    "Perfil" : {
+      "X6tMdwONKpRbIclBMEj82D2A2y42" : {
+        "Favoritos" : {
+          "Name" : "Simba Lima",
+          "X6tMdwONKpRbIclBMEj82D2A2y420" : {
+            "desc" : "ESCOVA DE LIMPEZA FACIAL - 2 EM 1 - Com dois lados para a limpeza da sua pele, você nunca mais sentirá sua pele seca e sem vida. Um lado serva para a limpeza e remoção de toda sujeira da sua pele, já massageando e ativando a circulação. O outro lado serva para esfoliar o rosto, removendo todas as células mortas, trazendo células novas e renovando o rosto.",
+            "id" : "069b7d23-babf-4a54-937f-b6161994af0b",
+            "id_fav" : "X6tMdwONKpRbIclBMEj82D2A2y420",
+            "imagem1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FEscova%20de%20Limpeza%20Facial%20-%202%20EM%201%2F069b7d23-babf-4a54-937f-b6161994af0b?alt=media&token=085ae4ba-90fb-4464-912a-e3e9f352f6d1",
+            "imagem1id" : "069b7d23-babf-4a54-937f-b6161994af0b",
+            "imagem2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FEscova%20de%20Limpeza%20Facial%20-%202%20EM%201%2F069b7d23-babf-4a54-937f-b6161994af0b1?alt=media&token=3c51e1ee-af9e-4024-9799-96dd0df93f0e",
+            "imagem2id" : "069b7d23-babf-4a54-937f-b6161994af0b1",
+            "imagem3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FEscova%20de%20Limpeza%20Facial%20-%202%20EM%201%2F069b7d23-babf-4a54-937f-b6161994af0b2?alt=media&token=1d27c461-2952-4616-9580-315f7ecdc0cb",
+            "imagem3id" : "069b7d23-babf-4a54-937f-b6161994af0b3",
+            "imagem4" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FEscova%20de%20Limpeza%20Facial%20-%202%20EM%201%2F069b7d23-babf-4a54-937f-b6161994af0b3?alt=media&token=411dfd04-6f62-4b86-8d75-341ef0fc4525",
+            "imagem4id" : "069b7d23-babf-4a54-937f-b6161994af0b4",
+            "nome" : "Escova de Limpeza Facial - 2 EM 1",
+            "preco" : "14.90"
+          }
+        }
+      },
+      "dHqNnrAoQpSG4rkrCZzFXtGgHDL2" : {
+        "Favoritos" : {
+          "Name" : "Jordan Elizeu",
+          "dHqNnrAoQpSG4rkrCZzFXtGgHDL20" : {
+            "desc" : "ESCOVA DE LIMPEZA FACIAL - 2 EM 1 - Com dois lados para a limpeza da sua pele, você nunca mais sentirá sua pele seca e sem vida. Um lado serva para a limpeza e remoção de toda sujeira da sua pele, já massageando e ativando a circulação. O outro lado serva para esfoliar o rosto, removendo todas as células mortas, trazendo células novas e renovando o rosto.",
+            "id" : "069b7d23-babf-4a54-937f-b6161994af0b",
+            "id_fav" : "dHqNnrAoQpSG4rkrCZzFXtGgHDL20",
+            "imagem1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FEscova%20de%20Limpeza%20Facial%20-%202%20EM%201%2F069b7d23-babf-4a54-937f-b6161994af0b?alt=media&token=085ae4ba-90fb-4464-912a-e3e9f352f6d1",
+            "imagem1id" : "069b7d23-babf-4a54-937f-b6161994af0b",
+            "imagem2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FEscova%20de%20Limpeza%20Facial%20-%202%20EM%201%2F069b7d23-babf-4a54-937f-b6161994af0b1?alt=media&token=3c51e1ee-af9e-4024-9799-96dd0df93f0e",
+            "imagem2id" : "069b7d23-babf-4a54-937f-b6161994af0b1",
+            "imagem3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FEscova%20de%20Limpeza%20Facial%20-%202%20EM%201%2F069b7d23-babf-4a54-937f-b6161994af0b2?alt=media&token=1d27c461-2952-4616-9580-315f7ecdc0cb",
+            "imagem3id" : "069b7d23-babf-4a54-937f-b6161994af0b3",
+            "imagem4" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FEscova%20de%20Limpeza%20Facial%20-%202%20EM%201%2F069b7d23-babf-4a54-937f-b6161994af0b3?alt=media&token=411dfd04-6f62-4b86-8d75-341ef0fc4525",
+            "imagem4id" : "069b7d23-babf-4a54-937f-b6161994af0b4",
+            "nome" : "Escova de Limpeza Facial - 2 EM 1",
+            "preco" : "14.90"
+          },
+          "dHqNnrAoQpSG4rkrCZzFXtGgHDL22" : {
+            "desc" : "O Sérum Facial Colágeno Max Love foi desenvolvido para quem busca uma aparência de pele mais saudável e jovem.\n\nPor conta do colágeno em sua composição, contribui com a saúde da pele, auxiliando no fortalecimento, hidratação e elasticidade.\n\nSua poderosa fórmula somam os efeitos dos extratos de camomila, algas marinhas, alecrim, chá verde e pepino.",
+            "id" : "3e5c8c47-3b61-44de-b50e-9d50f60b6b3a",
+            "id_fav" : "dHqNnrAoQpSG4rkrCZzFXtGgHDL22",
+            "imagem1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Col%C3%A1geno%20Max%20Love%2F3e5c8c47-3b61-44de-b50e-9d50f60b6b3a?alt=media&token=13ec6dd0-5735-4b31-9d22-eca937da3aa2",
+            "imagem1id" : "3e5c8c47-3b61-44de-b50e-9d50f60b6b3a",
+            "imagem2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Col%C3%A1geno%20Max%20Love%2F3e5c8c47-3b61-44de-b50e-9d50f60b6b3a1?alt=media&token=192701e5-c817-43ed-be8e-e0f04828be95",
+            "imagem2id" : "3e5c8c47-3b61-44de-b50e-9d50f60b6b3a1",
+            "imagem3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Col%C3%A1geno%20Max%20Love%2F3e5c8c47-3b61-44de-b50e-9d50f60b6b3a2?alt=media&token=8bc603c5-d771-4136-bdad-bd0ddb86d702",
+            "imagem3id" : "3e5c8c47-3b61-44de-b50e-9d50f60b6b3a3",
+            "imagem4" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Col%C3%A1geno%20Max%20Love%2F3e5c8c47-3b61-44de-b50e-9d50f60b6b3a3?alt=media&token=b39320e8-f066-45da-a887-a75c3e544835",
+            "imagem4id" : "3e5c8c47-3b61-44de-b50e-9d50f60b6b3a4",
+            "nome" : "Sérum Facial Colágeno Max Love",
+            "preco" : "14.90"
+          }
+        }
+      },
+      "jE2csJj7fRdwatmy08mqrX2HAEd2" : {
+        "Favoritos" : {
+          "Name" : "Rubistar Barbosa"
+        }
+      }
+    },
+    "Produtos" : {
+      "069b7d23-babf-4a54-937f-b6161994af0b" : {
+        "Perfil" : {
+          "Users" : {
+            "Comentarios" : {
+              "3dceccea-084b-41eb-a781-063889443a88dHqNnrAoQpSG4rkrCZzFXtGgHDL2" : {
+                "comentario" : "boa noite",
+                "data" : "22/09/2021",
+                "imagem" : "https://lh3.googleusercontent.com/a/AATXAJy-JYw1QKAfhyI-ys4UYEdido2KGTnX2DcdsUh9=s96-c",
+                "nome" : "Jordan Elizeu",
+                "uid" : "3dceccea-084b-41eb-a781-063889443a88",
+                "user" : "dHqNnrAoQpSG4rkrCZzFXtGgHDL2"
+              },
+              "8db76075-e81a-4aad-86df-6f22a0eb90bdX6tMdwONKpRbIclBMEj82D2A2y42" : {
+                "comentario" : "Muito bom !!!",
+                "data" : "24/08/2021",
+                "imagem" : "https://lh3.googleusercontent.com/a/AATXAJwlEOKSlBjk5_XifvzgS4PXup83mBtv47aTCDR1=s96-c",
+                "nome" : "Simba Lima",
+                "uid" : "8db76075-e81a-4aad-86df-6f22a0eb90bd",
+                "user" : "X6tMdwONKpRbIclBMEj82D2A2y42"
+              },
+              "b4a6d183-d2e3-48a5-9c0c-e43287799347dHqNnrAoQpSG4rkrCZzFXtGgHDL2" : {
+                "comentario" : "parabéns muito",
+                "data" : "24/08/2021",
+                "imagem" : "https://lh3.googleusercontent.com/a/AATXAJy-JYw1QKAfhyI-ys4UYEdido2KGTnX2DcdsUh9=s96-c",
+                "nome" : "Jordan Elizeu",
+                "uid" : "b4a6d183-d2e3-48a5-9c0c-e43287799347",
+                "user" : "dHqNnrAoQpSG4rkrCZzFXtGgHDL2"
+              },
+              "bfa7e09b-e990-4523-879e-0131843dce7eX6tMdwONKpRbIclBMEj82D2A2y42" : {
+                "comentario" : "Excelente !!! 😁😁",
+                "data" : "24/08/2021",
+                "imagem" : "https://lh3.googleusercontent.com/a/AATXAJwlEOKSlBjk5_XifvzgS4PXup83mBtv47aTCDR1=s96-c",
+                "nome" : "Simba Lima",
+                "uid" : "bfa7e09b-e990-4523-879e-0131843dce7e",
+                "user" : "X6tMdwONKpRbIclBMEj82D2A2y42"
+              }
+            },
+            "quantidade" : 1
+          }
+        },
+        "descricao" : "ESCOVA DE LIMPEZA FACIAL - 2 EM 1 - Com dois lados para a limpeza da sua pele, você nunca mais sentirá sua pele seca e sem vida. Um lado serva para a limpeza e remoção de toda sujeira da sua pele, já massageando e ativando a circulação. O outro lado serva para esfoliar o rosto, removendo todas as células mortas, trazendo células novas e renovando o rosto.",
+        "id" : "069b7d23-babf-4a54-937f-b6161994af0b",
+        "imagem1Download" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FEscova%20de%20Limpeza%20Facial%20-%202%20EM%201%2F069b7d23-babf-4a54-937f-b6161994af0b?alt=media&token=085ae4ba-90fb-4464-912a-e3e9f352f6d1",
+        "imagem1Download1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FEscova%20de%20Limpeza%20Facial%20-%202%20EM%201%2F069b7d23-babf-4a54-937f-b6161994af0b1?alt=media&token=3c51e1ee-af9e-4024-9799-96dd0df93f0e",
+        "imagem1Download2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FEscova%20de%20Limpeza%20Facial%20-%202%20EM%201%2F069b7d23-babf-4a54-937f-b6161994af0b2?alt=media&token=1d27c461-2952-4616-9580-315f7ecdc0cb",
+        "imagem1Download3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FEscova%20de%20Limpeza%20Facial%20-%202%20EM%201%2F069b7d23-babf-4a54-937f-b6161994af0b3?alt=media&token=411dfd04-6f62-4b86-8d75-341ef0fc4525",
+        "imagem1ID" : "069b7d23-babf-4a54-937f-b6161994af0b",
+        "imagem1ID1" : "069b7d23-babf-4a54-937f-b6161994af0b1",
+        "imagem1ID2" : "069b7d23-babf-4a54-937f-b6161994af0b3",
+        "imagem1ID3" : "069b7d23-babf-4a54-937f-b6161994af0b4",
+        "nome" : "Escova de Limpeza Facial - 2 EM 1",
+        "preco" : "14.90"
+      },
+      "2c030d43-ba5a-438a-ad33-5619a332cd58" : {
+        "Perfil" : {
+          "Users" : {
+            "quantidade" : 0
+          }
+        },
+        "descricao" : "O Pó Facial Translúcido Fenzza foi desenvolvido para dar aquele toque natural, porém, com muita elegância na finalização da maquiagem. Ele deve ser usado após o primer,corretivo e base.\n\nAlém de ajudar na fixação da maquiagem, ele ainda é responsável por garantir um efeito mais sequinho na pele, retirando o brilho excessivo e deixando a produção perfeita!\n\nEle também é super indicado para a maquiagem do dia a dia, pois deixa um efeito mais natural, sem marcar as linhas de expressão.\n\nModo de usar: Com a ajuda de uma esponja ou pincel, aplique o pó levemente sobre o rosto para matificar a pele. Para peles mais oleosas, reaplique sempre que necessário.\n\nÉ indicado para todos os tipos de pele.\n\nContém:15 g",
+        "id" : "2c030d43-ba5a-438a-ad33-5619a332cd58",
+        "imagem1Download" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FFenzza%20P%C3%B3%20Facial%20Transl%C3%BAcido%2F2c030d43-ba5a-438a-ad33-5619a332cd58?alt=media&token=0be56e6e-2d72-4dd2-ba0a-e86ab97ac7a0",
+        "imagem1Download1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FFenzza%20P%C3%B3%20Facial%20Transl%C3%BAcido%2F2c030d43-ba5a-438a-ad33-5619a332cd581?alt=media&token=dce4c8ec-b219-460b-ad73-522d8a955867",
+        "imagem1Download2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FFenzza%20P%C3%B3%20Facial%20Transl%C3%BAcido%2F2c030d43-ba5a-438a-ad33-5619a332cd582?alt=media&token=67147f8d-54f8-4a5a-8b60-fe6936b645e2",
+        "imagem1Download3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FFenzza%20P%C3%B3%20Facial%20Transl%C3%BAcido%2F2c030d43-ba5a-438a-ad33-5619a332cd583?alt=media&token=8f998c0f-f170-44e5-a987-6b7fb4181188",
+        "imagem1ID" : "2c030d43-ba5a-438a-ad33-5619a332cd58",
+        "imagem1ID1" : "2c030d43-ba5a-438a-ad33-5619a332cd584",
+        "imagem1ID2" : "2c030d43-ba5a-438a-ad33-5619a332cd582",
+        "imagem1ID3" : "2c030d43-ba5a-438a-ad33-5619a332cd583",
+        "nome" : "Fenzza Pó Facial Translúcido",
+        "preco" : "11.90"
+      },
+      "3e5c8c47-3b61-44de-b50e-9d50f60b6b3a" : {
+        "Perfil" : {
+          "Users" : {
+            "Comentarios" : {
+              "461be947-7d1b-4d10-ad9e-eb8b7de47399X6tMdwONKpRbIclBMEj82D2A2y42" : {
+                "comentario" : "1212",
+                "data" : "26/08/2021",
+                "imagem" : "https://lh3.googleusercontent.com/a/AATXAJwlEOKSlBjk5_XifvzgS4PXup83mBtv47aTCDR1=s96-c",
+                "nome" : "Simba Lima",
+                "uid" : "461be947-7d1b-4d10-ad9e-eb8b7de47399",
+                "user" : "X6tMdwONKpRbIclBMEj82D2A2y42"
+              }
+            },
+            "quantidade" : 1
+          }
+        },
+        "descricao" : "O Sérum Facial Colágeno Max Love foi desenvolvido para quem busca uma aparência de pele mais saudável e jovem.\n\nPor conta do colágeno em sua composição, contribui com a saúde da pele, auxiliando no fortalecimento, hidratação e elasticidade.\n\nSua poderosa fórmula somam os efeitos dos extratos de camomila, algas marinhas, alecrim, chá verde e pepino.",
+        "id" : "3e5c8c47-3b61-44de-b50e-9d50f60b6b3a",
+        "imagem1Download" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Col%C3%A1geno%20Max%20Love%2F3e5c8c47-3b61-44de-b50e-9d50f60b6b3a?alt=media&token=13ec6dd0-5735-4b31-9d22-eca937da3aa2",
+        "imagem1Download1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Col%C3%A1geno%20Max%20Love%2F3e5c8c47-3b61-44de-b50e-9d50f60b6b3a1?alt=media&token=192701e5-c817-43ed-be8e-e0f04828be95",
+        "imagem1Download2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Col%C3%A1geno%20Max%20Love%2F3e5c8c47-3b61-44de-b50e-9d50f60b6b3a2?alt=media&token=8bc603c5-d771-4136-bdad-bd0ddb86d702",
+        "imagem1Download3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Col%C3%A1geno%20Max%20Love%2F3e5c8c47-3b61-44de-b50e-9d50f60b6b3a3?alt=media&token=b39320e8-f066-45da-a887-a75c3e544835",
+        "imagem1ID" : "3e5c8c47-3b61-44de-b50e-9d50f60b6b3a",
+        "imagem1ID1" : "3e5c8c47-3b61-44de-b50e-9d50f60b6b3a1",
+        "imagem1ID2" : "3e5c8c47-3b61-44de-b50e-9d50f60b6b3a3",
+        "imagem1ID3" : "3e5c8c47-3b61-44de-b50e-9d50f60b6b3a4",
+        "nome" : "Sérum Facial Colágeno Max Love",
+        "preco" : "14.90"
+      },
+      "3f117b25-7a99-4418-a7e2-d85182dd6e05" : {
+        "Perfil" : {
+          "Users" : {
+            "Comentarios" : {
+              "507bece2-0676-4e96-91ef-7c0c6148123ddHqNnrAoQpSG4rkrCZzFXtGgHDL2" : {
+                "comentario" : "sjsjs",
+                "data" : "26/08/2021",
+                "imagem" : "https://lh3.googleusercontent.com/a/AATXAJy-JYw1QKAfhyI-ys4UYEdido2KGTnX2DcdsUh9=s96-c",
+                "nome" : "Jordan Elizeu",
+                "uid" : "507bece2-0676-4e96-91ef-7c0c6148123d",
+                "user" : "dHqNnrAoQpSG4rkrCZzFXtGgHDL2"
+              },
+              "5319bd7e-cb1f-407c-bde5-7f7c60cd1dfcdHqNnrAoQpSG4rkrCZzFXtGgHDL2" : {
+                "comentario" : "kdjssj",
+                "data" : "26/08/2021",
+                "imagem" : "https://lh3.googleusercontent.com/a/AATXAJy-JYw1QKAfhyI-ys4UYEdido2KGTnX2DcdsUh9=s96-c",
+                "nome" : "Jordan Elizeu",
+                "uid" : "5319bd7e-cb1f-407c-bde5-7f7c60cd1dfc",
+                "user" : "dHqNnrAoQpSG4rkrCZzFXtGgHDL2"
+              }
+            },
+            "quantidade" : 1
+          }
+        },
+        "descricao" : "Escova de Limpeza de pele Facial É para todos os tipos de pele.\nA escova limpa o rosto, proporcionando uma pele radiante, macia e totalmente limpa\nSuas vibrações ajudam a eliminar os resíduos de oleosidade, sujeira e maquiagem presentes na pele maneira delicada.",
+        "id" : "3f117b25-7a99-4418-a7e2-d85182dd6e05",
+        "imagem1Download" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FEscova%20de%20Limpeza%20de%20pele%20Facial%2F3f117b25-7a99-4418-a7e2-d85182dd6e05?alt=media&token=1c926612-a620-4619-a2a9-ef8788faba74",
+        "imagem1Download1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FEscova%20de%20Limpeza%20de%20pele%20Facial%2F3f117b25-7a99-4418-a7e2-d85182dd6e051?alt=media&token=18333683-72dd-4461-a8ab-abedb7ea012b",
+        "imagem1Download2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FEscova%20de%20Limpeza%20de%20pele%20Facial%2F3f117b25-7a99-4418-a7e2-d85182dd6e052?alt=media&token=6dafd7d0-d527-4176-a6c9-22ba97f7eb44",
+        "imagem1Download3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FEscova%20de%20Limpeza%20de%20pele%20Facial%2F3f117b25-7a99-4418-a7e2-d85182dd6e053?alt=media&token=cc042e5d-4aef-4468-a611-9ece0c0903b3",
+        "imagem1ID" : "3f117b25-7a99-4418-a7e2-d85182dd6e05",
+        "imagem1ID1" : "3f117b25-7a99-4418-a7e2-d85182dd6e052",
+        "imagem1ID2" : "3f117b25-7a99-4418-a7e2-d85182dd6e053",
+        "imagem1ID3" : "3f117b25-7a99-4418-a7e2-d85182dd6e054",
+        "nome" : "Escova de Limpeza de pele Facial",
+        "preco" : "26.90"
+      },
+      "611a07f8-e8fe-45f6-b508-e39cbda83a2c" : {
+        "Perfil" : {
+          "Users" : {
+            "quantidade" : 1
+          }
+        },
+        "descricao" : "O Fixador de Maquiagem da Max Love foi desenvolvido especialmente para prolongar a duração da Make de uma forma leve,\no produto possui secagem rápida fazendo com que a pele não fique úmida. Ao aplicar o Fixador o mesmo não irá molhar e nem borrar a sua Make, além disso o cheiro é suave e agradável.\nPode ser aplicado antes e principalmente logo após a finalização da maquiagem.",
+        "id" : "611a07f8-e8fe-45f6-b508-e39cbda83a2c",
+        "imagem1Download" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FFixador%20de%20Maquiagem%20Max%20Love%2F611a07f8-e8fe-45f6-b508-e39cbda83a2c?alt=media&token=6e141e91-965e-4047-b54e-c7226f708bb2",
+        "imagem1Download1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FFixador%20de%20Maquiagem%20Max%20Love%2F611a07f8-e8fe-45f6-b508-e39cbda83a2c1?alt=media&token=9a2d3c3d-44ce-4c99-a67d-1c917c19b002",
+        "imagem1Download2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FFixador%20de%20Maquiagem%20Max%20Love%2F611a07f8-e8fe-45f6-b508-e39cbda83a2c2?alt=media&token=a7c14ad9-bbf8-4849-8ba4-2227494ba297",
+        "imagem1Download3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FFixador%20de%20Maquiagem%20Max%20Love%2F611a07f8-e8fe-45f6-b508-e39cbda83a2c3?alt=media&token=a87ffcc6-7e86-4d47-859f-9204281669fe",
+        "imagem1ID" : "611a07f8-e8fe-45f6-b508-e39cbda83a2c",
+        "imagem1ID1" : "611a07f8-e8fe-45f6-b508-e39cbda83a2c1",
+        "imagem1ID2" : "611a07f8-e8fe-45f6-b508-e39cbda83a2c4",
+        "imagem1ID3" : "611a07f8-e8fe-45f6-b508-e39cbda83a2c3",
+        "nome" : "Fixador de Maquiagem Max Love",
+        "preco" : "16.90"
+      },
+      "69c0671a-dd6d-43f9-a18b-d6dbf6c512f2" : {
+        "Perfil" : {
+          "Users" : {
+            "quantidade" : 1
+          }
+        },
+        "descricao" : "The Colossal Volum Express Waterproof é uma máscara de volume extremo, à prova d'água. Sua fórmula à base de colágeno e de agentes espessastes aumenta incrivelmente o volume dos cílios sem deixar resíduos aglomerados. A escova, projetada para concentrar maior quantidade de produto em sua superfície, permite uma aplicação rápida e generosa. O único com cerdas capazes de alcançar os cílios da raiz às pontas uniformemente. De alta durabilidade, deve ser retirada com demaquilante. O resultado é um olhar impressionante, com olhos brilhantes e adoráveis",
+        "id" : "69c0671a-dd6d-43f9-a18b-d6dbf6c512f2",
+        "imagem1Download" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FM%C3%A1scara%20de%20C%C3%ADlios%20Rimel%20Colossal%20On%C3%A7a%20Super%20Volume%2F69c0671a-dd6d-43f9-a18b-d6dbf6c512f2?alt=media&token=74e5db89-0d1e-4623-82cb-754ac93cd21b",
+        "imagem1Download1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FM%C3%A1scara%20de%20C%C3%ADlios%20Rimel%20Colossal%20On%C3%A7a%20Super%20Volume%2F69c0671a-dd6d-43f9-a18b-d6dbf6c512f21?alt=media&token=e7680bd6-301c-4f1a-a27b-d0acdf1ceaeb",
+        "imagem1Download2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FM%C3%A1scara%20de%20C%C3%ADlios%20Rimel%20Colossal%20On%C3%A7a%20Super%20Volume%2F69c0671a-dd6d-43f9-a18b-d6dbf6c512f22?alt=media&token=efce3969-f4ce-4a59-be01-002e75485034",
+        "imagem1Download3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FM%C3%A1scara%20de%20C%C3%ADlios%20Rimel%20Colossal%20On%C3%A7a%20Super%20Volume%2F69c0671a-dd6d-43f9-a18b-d6dbf6c512f23?alt=media&token=2cddef10-9bd4-44c7-9c12-cba23db344c0",
+        "imagem1ID" : "69c0671a-dd6d-43f9-a18b-d6dbf6c512f2",
+        "imagem1ID1" : "69c0671a-dd6d-43f9-a18b-d6dbf6c512f21",
+        "imagem1ID2" : "69c0671a-dd6d-43f9-a18b-d6dbf6c512f23",
+        "imagem1ID3" : "69c0671a-dd6d-43f9-a18b-d6dbf6c512f24",
+        "nome" : "Máscara de Cílios Rimel Colossal Onça Super Volume",
+        "preco" : "11.00"
+      },
+      "711b8138-4b87-421c-a196-08f28f7cec3e" : {
+        "Comentarios" : {
+          "4f0ae4ff-77fc-41c6-bc50-fddee6d1a901dHqNnrAoQpSG4rkrCZzFXtGgHDL2" : {
+            "comentario" : "ola",
+            "data" : "dataFormatada",
+            "imagem" : "https://lh3.googleusercontent.com/a/AATXAJy-JYw1QKAfhyI-ys4UYEdido2KGTnX2DcdsUh9=s96-c",
+            "nome" : "Jordan Elizeu",
+            "uid" : "4f0ae4ff-77fc-41c6-bc50-fddee6d1a901",
+            "user" : "dHqNnrAoQpSG4rkrCZzFXtGgHDL2"
+          }
+        },
+        "Perfil" : {
+          "Users" : {
+            "quantidade" : 1
+          }
+        },
+        "descricao" : "O Sérum Facial Ácido Hialurônico Phallebeauty garante a hidratação da pele até nas camadas mais profundas, fornece a nutrição necessária para a síntese de colágeno e elasteno, protegendo a pele contra o ressecamento.",
+        "id" : "711b8138-4b87-421c-a196-08f28f7cec3e",
+        "imagem1Download" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Phallebeauty%20PH0154%2F711b8138-4b87-421c-a196-08f28f7cec3e?alt=media&token=e82789cf-2eb4-49f0-b0cb-b5e0552ae9dd",
+        "imagem1Download1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Phallebeauty%20PH0154%2F711b8138-4b87-421c-a196-08f28f7cec3e1?alt=media&token=132c2fd8-9e20-4750-b183-0769780bc04d",
+        "imagem1Download2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Phallebeauty%20PH0154%2F711b8138-4b87-421c-a196-08f28f7cec3e2?alt=media&token=9e57782c-f08a-4352-9241-0a88b54e9128",
+        "imagem1Download3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Phallebeauty%20PH0154%2F711b8138-4b87-421c-a196-08f28f7cec3e3?alt=media&token=e153a17f-bb6b-4587-9b30-ef20c24fe506",
+        "imagem1ID" : "711b8138-4b87-421c-a196-08f28f7cec3e",
+        "imagem1ID1" : "711b8138-4b87-421c-a196-08f28f7cec3e2",
+        "imagem1ID2" : "711b8138-4b87-421c-a196-08f28f7cec3e4",
+        "imagem1ID3" : "711b8138-4b87-421c-a196-08f28f7cec3e3",
+        "nome" : "Sérum Facial Phallebeauty PH0154",
+        "preco" : "14.90"
+      },
+      "8e13e939-ade2-4c32-a2ac-9106fa3af75e" : {
+        "Perfil" : {
+          "Users" : {
+            "quantidade" : 1
+          }
+        },
+        "descricao" : "a máscara de cílios volume lash, da luisance, é para quem adora um volumão arrasador. seu pincel cheio de cerdas alcança toda a extensão dos fios, promovendo definição, volume, alongamento e cílios curvados. com ótima duração e resistência, você pode curtir sem medo !!!",
+        "id" : "8e13e939-ade2-4c32-a2ac-9106fa3af75e",
+        "imagem1Download" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FM%C3%A1scara%20de%20C%C3%ADlios%20Volume%20LASH%20-%20Luisance%2F8e13e939-ade2-4c32-a2ac-9106fa3af75e?alt=media&token=a89c31ee-f199-4713-ab0a-751396c3a594",
+        "imagem1Download1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FM%C3%A1scara%20de%20C%C3%ADlios%20Volume%20LASH%20-%20Luisance%2F8e13e939-ade2-4c32-a2ac-9106fa3af75e1?alt=media&token=e2e32a7e-24e7-4b21-83f7-a6de53863b01",
+        "imagem1Download2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FM%C3%A1scara%20de%20C%C3%ADlios%20Volume%20LASH%20-%20Luisance%2F8e13e939-ade2-4c32-a2ac-9106fa3af75e2?alt=media&token=618383ec-2acb-49f4-97a4-3dcf53bd8853",
+        "imagem1Download3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FM%C3%A1scara%20de%20C%C3%ADlios%20Volume%20LASH%20-%20Luisance%2F8e13e939-ade2-4c32-a2ac-9106fa3af75e3?alt=media&token=b27cd3cd-9764-4be7-860a-d84d33ecfcf2",
+        "imagem1ID" : "8e13e939-ade2-4c32-a2ac-9106fa3af75e",
+        "imagem1ID1" : "8e13e939-ade2-4c32-a2ac-9106fa3af75e1",
+        "imagem1ID2" : "8e13e939-ade2-4c32-a2ac-9106fa3af75e4",
+        "imagem1ID3" : "8e13e939-ade2-4c32-a2ac-9106fa3af75e3",
+        "nome" : "Máscara de Cílios Volume LASH - Luisance",
+        "preco" : "15.90"
+      },
+      "93cc86e0-337b-4637-9b37-e97141783679" : {
+        "Perfil" : {
+          "Users" : {
+            "Comentarios" : {
+              "89951e32-ddd8-4693-ae2f-fd4364e6c1eedHqNnrAoQpSG4rkrCZzFXtGgHDL2" : {
+                "comentario" : "Muito bom 😃",
+                "data" : "29/08/2021",
+                "imagem" : "https://lh3.googleusercontent.com/a/AATXAJy-JYw1QKAfhyI-ys4UYEdido2KGTnX2DcdsUh9=s96-c",
+                "nome" : "Jordan Elizeu",
+                "uid" : "89951e32-ddd8-4693-ae2f-fd4364e6c1ee",
+                "user" : "dHqNnrAoQpSG4rkrCZzFXtGgHDL2"
+              }
+            },
+            "quantidade" : 1
+          }
+        },
+        "descricao" : "Magic Fix Ruby Rose é um sérum potencializador que ajuda a prolongar sua maquiagem, proporcionando fixação, durabilidade e um acabamento impecável. Possui ação controladora de oleosidade deixando a pele macia, radiante e saudável. Pode ser usado antes da maquiagem para preparação de pele, misturado à base ou corretivo para melhorar a textura no momento da aplicação do produto. Também pode ser usado para fixar gliters e pigmentos.",
+        "id" : "93cc86e0-337b-4637-9b37-e97141783679",
+        "imagem1Download" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Magic%20Fix%20Ruby%20Rose%2F93cc86e0-337b-4637-9b37-e97141783679?alt=media&token=24d487cd-4c66-486b-9185-3dc7522590a3",
+        "imagem1Download1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Magic%20Fix%20Ruby%20Rose%2F93cc86e0-337b-4637-9b37-e971417836791?alt=media&token=b8558485-59c6-4d40-9955-3217cf3c5aba",
+        "imagem1Download2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Magic%20Fix%20Ruby%20Rose%2F93cc86e0-337b-4637-9b37-e971417836792?alt=media&token=cbe2da5e-b07e-4ea9-b50c-4f902d1988d2",
+        "imagem1Download3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Magic%20Fix%20Ruby%20Rose%2F93cc86e0-337b-4637-9b37-e971417836793?alt=media&token=a092c33b-07fe-469c-b5ef-bcc27387657a",
+        "imagem1ID" : "93cc86e0-337b-4637-9b37-e97141783679",
+        "imagem1ID1" : "93cc86e0-337b-4637-9b37-e971417836791",
+        "imagem1ID2" : "93cc86e0-337b-4637-9b37-e971417836794",
+        "imagem1ID3" : "93cc86e0-337b-4637-9b37-e971417836793",
+        "nome" : "Sérum Magic Fix Ruby Rose",
+        "preco" : "23.00"
+      },
+      "9420d061-9b2c-4f82-9dd1-a95fd916301d" : {
+        "Perfil" : {
+          "Users" : {
+            "quantidade" : 1
+          }
+        },
+        "descricao" : "O Hidratante Facial Recuperador Pós-Maquiagem Max Love foi desenvolvido para ajudar a recuperar a hidratação da pele após o uso de maquiagens e demaquilantes.\n\nDeve ser aplicado na pele limpa e seca e pode ser usado diariamente, mesmo que não tenha utilizado maquiagem no dia.\n\nSua fórmula contém ácido hialurônico, pró-vitamina B5, manteiga de karité, ureia e vitamina E.",
+        "id" : "9420d061-9b2c-4f82-9dd1-a95fd916301d",
+        "imagem1Download" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FHidratante%20Facial%20Recuperador%20P%C3%B3s-Maquiagem%20Max%20Love%2F9420d061-9b2c-4f82-9dd1-a95fd916301d?alt=media&token=e0d8b836-9b1a-4c5f-a5e1-8ed0e8a29008",
+        "imagem1Download1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FHidratante%20Facial%20Recuperador%20P%C3%B3s-Maquiagem%20Max%20Love%2F9420d061-9b2c-4f82-9dd1-a95fd916301d1?alt=media&token=e2964d30-0919-4d4e-bc19-29ec45ded906",
+        "imagem1Download2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FHidratante%20Facial%20Recuperador%20P%C3%B3s-Maquiagem%20Max%20Love%2F9420d061-9b2c-4f82-9dd1-a95fd916301d2?alt=media&token=6937fee7-c489-4f5b-a6f7-c31dd59f88b3",
+        "imagem1Download3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FHidratante%20Facial%20Recuperador%20P%C3%B3s-Maquiagem%20Max%20Love%2F9420d061-9b2c-4f82-9dd1-a95fd916301d3?alt=media&token=a02f446a-61a3-43b7-8b54-4b9fee5ce65f",
+        "imagem1ID" : "9420d061-9b2c-4f82-9dd1-a95fd916301d",
+        "imagem1ID1" : "9420d061-9b2c-4f82-9dd1-a95fd916301d2",
+        "imagem1ID2" : "9420d061-9b2c-4f82-9dd1-a95fd916301d3",
+        "imagem1ID3" : "9420d061-9b2c-4f82-9dd1-a95fd916301d4",
+        "nome" : "Hidratante Facial Recuperador Pós-Maquiagem Max Love",
+        "preco" : "10.90"
+      },
+      "9a2c2dc6-98df-4d7d-bdd6-bf7421368b53" : {
+        "Perfil" : {
+          "Users" : {
+            "quantidade" : 1
+          }
+        },
+        "descricao" : "o sérum facial clareador oil free max love vai nutrir e hidratar a pele e ainda vai te auxiliar na uniformização do tom da pele\n \nsua fórmula potente, possui niacinamida, ácido hialurônico e aminoácidos da beterraba.",
+        "id" : "9a2c2dc6-98df-4d7d-bdd6-bf7421368b53",
+        "imagem1Download" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Clareador%20OIL%20Free%20Max%20Love%2F9a2c2dc6-98df-4d7d-bdd6-bf7421368b53?alt=media&token=ad61dd65-46e0-4658-97b1-76358357c6aa",
+        "imagem1Download1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Clareador%20OIL%20Free%20Max%20Love%2F9a2c2dc6-98df-4d7d-bdd6-bf7421368b531?alt=media&token=d56bbcc5-b4fc-4974-a6d7-1c07b3faaed0",
+        "imagem1Download2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Clareador%20OIL%20Free%20Max%20Love%2F9a2c2dc6-98df-4d7d-bdd6-bf7421368b532?alt=media&token=9b341a77-bd46-4eb2-9ec2-ea19a02f23fa",
+        "imagem1Download3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Clareador%20OIL%20Free%20Max%20Love%2F9a2c2dc6-98df-4d7d-bdd6-bf7421368b533?alt=media&token=93636520-eab8-41b4-a10f-68be2f354b75",
+        "imagem1ID" : "9a2c2dc6-98df-4d7d-bdd6-bf7421368b53",
+        "imagem1ID1" : "9a2c2dc6-98df-4d7d-bdd6-bf7421368b532",
+        "imagem1ID2" : "9a2c2dc6-98df-4d7d-bdd6-bf7421368b534",
+        "imagem1ID3" : "9a2c2dc6-98df-4d7d-bdd6-bf7421368b533",
+        "nome" : "Sérum Facial Clareador OIL Free Max Love",
+        "preco" : "15.00"
+      },
+      "9f5ed469-d856-468e-9697-4df88871b632" : {
+        "Perfil" : {
+          "Users" : {
+            "quantidade" : 1
+          }
+        },
+        "descricao" : "O Sabonete Primer Make up Dermachem Laboratory proporciona uma hidratação 3 D deixando a pele mais macia e aveludada, suavizando as linhas de expressão e os poros abertos, preparando a pele para receber maquiagem , removendo o excesso de oleosidade.\n\nMAKE OUT – Removedor de Maquiagem 3 em 1! Oil Free\nO Sabonete Demaquilante Make Out Dermachem Laboratory, proporcionam a remoção da maquiagem rápida e eficiente 3 em 1. Podendo ser usado de 3 maneiras práticas: \n\n1° demaquilante de banho , usar durante o banho;\n2° demaquilante lavabo, usar lavando o rosto na pia;\n3° demaquilante tradicional usando com disco de algodão ou bastonetes. \n.\n.\n.\n.\n.\nsabonete pré make - R$ 12,00\nSabonete pós make - R$ 12,00",
+        "id" : "9f5ed469-d856-468e-9697-4df88871b632",
+        "imagem1Download" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FSabonete%20Primer%20Make%20up%20Dermachem%20Laboratory%2F9f5ed469-d856-468e-9697-4df88871b632?alt=media&token=dfc9716f-f4eb-4305-ae72-eb1b22423081",
+        "imagem1Download1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FSabonete%20Primer%20Make%20up%20Dermachem%20Laboratory%2F9f5ed469-d856-468e-9697-4df88871b6321?alt=media&token=67dd0f96-58a9-4f6f-906b-3a570caf3542",
+        "imagem1Download2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FSabonete%20Primer%20Make%20up%20Dermachem%20Laboratory%2F9f5ed469-d856-468e-9697-4df88871b6322?alt=media&token=e4828c88-e514-4f5c-8685-29d94e35087e",
+        "imagem1Download3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FSabonete%20Primer%20Make%20up%20Dermachem%20Laboratory%2F9f5ed469-d856-468e-9697-4df88871b6323?alt=media&token=3999284e-b68f-4124-ac72-a67d504ac38b",
+        "imagem1ID" : "9f5ed469-d856-468e-9697-4df88871b632",
+        "imagem1ID1" : "9f5ed469-d856-468e-9697-4df88871b6322",
+        "imagem1ID2" : "9f5ed469-d856-468e-9697-4df88871b6324",
+        "imagem1ID3" : "9f5ed469-d856-468e-9697-4df88871b6323",
+        "nome" : "Sabonete Primer Make up Dermachem Laboratory",
+        "preco" : "12.00"
+      },
+      "Armazenamento" : {
+        "Produtos" : {
+          "quantidade" : 21
+        }
+      },
+      "ad2d0956-d86c-42b5-b5f3-ae6a56aaf2e7" : {
+        "Perfil" : {
+          "Users" : {
+            "quantidade" : 1
+          }
+        },
+        "descricao" : "a bruma fixadora my delicious, da miss lary, te ajuda a fixar e finalizar a maquiagem, deixando sua pele hidratada e com aspecto natural e revitalizado. com extrato de blue berry e chá branco, que possuem efeito antioxidante, ela vai revigorar e acalmar a derme, dando aquele toque macio e aveludado que amamos.\n\n \n\nsão vários aromas para você escolher seu favorito.\n\n \n\nespecificações técnicas:\n♥ contém: 100 ml;\n\n \n\n♥ tamanho: 13 cm;\n\n \n\n♥ composição:  aqua,disodium edta panthenol, glycerin, propylene glycol, peg-40, hydrogenated castor oil, polysorbate 20 , dmdm hydantion, benzophenone-4, camelia sinensis extract, parfum , aloe barbadensis extract. pode conter: ci16185, ci19140, ci42053.\n\n \n\ncomo usar bruma fixadora:\n♥ borrife a 25 cm de distância do seu rosto com os olhos fechados e aguarde secar;\n\n \n\n♥ pode ser usada antes e/ou após a maquiagem para hidratar e fixar.",
+        "id" : "ad2d0956-d86c-42b5-b5f3-ae6a56aaf2e7",
+        "imagem1Download" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FBruma%20Fixadora%20My%20Delicious%2Fad2d0956-d86c-42b5-b5f3-ae6a56aaf2e7?alt=media&token=288e774e-7df7-4bdf-b5c4-70f17b9af81b",
+        "imagem1Download1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FBruma%20Fixadora%20My%20Delicious%2Fad2d0956-d86c-42b5-b5f3-ae6a56aaf2e71?alt=media&token=db9c0c50-7395-4384-9c67-d09c777acbf2",
+        "imagem1Download2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FBruma%20Fixadora%20My%20Delicious%2Fad2d0956-d86c-42b5-b5f3-ae6a56aaf2e72?alt=media&token=a06a4916-3cc6-4c64-9e4a-d6eea03d2e68",
+        "imagem1Download3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FBruma%20Fixadora%20My%20Delicious%2Fad2d0956-d86c-42b5-b5f3-ae6a56aaf2e73?alt=media&token=18f5972e-3f81-4e08-90a8-a42ffe28b9c4",
+        "imagem1ID" : "ad2d0956-d86c-42b5-b5f3-ae6a56aaf2e7",
+        "imagem1ID1" : "ad2d0956-d86c-42b5-b5f3-ae6a56aaf2e72",
+        "imagem1ID2" : "ad2d0956-d86c-42b5-b5f3-ae6a56aaf2e73",
+        "imagem1ID3" : "ad2d0956-d86c-42b5-b5f3-ae6a56aaf2e74",
+        "nome" : "Bruma Fixadora My Delicious",
+        "preco" : "17.90"
+      },
+      "bafa16d4-04ab-43f2-83b8-88db8bb94404" : {
+        "Perfil" : {
+          "Users" : {
+            "quantidade" : 1
+          }
+        },
+        "descricao" : "O Prep+Primer Feels Ruby Rose é perfeito para a sua preparação de pele pois ajuda a cobrir imperfeições e auxilia na redução da aparência dos poros e linhas finas. Sua cobertura translúcida proporciona um efeito leve e aveludado enquanto prolonga a duração da make.\n\nContém: 29ml",
+        "id" : "bafa16d4-04ab-43f2-83b8-88db8bb94404",
+        "imagem1Download" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FPrep%20%2B%20Primer%20Facial%20Feels%20Ruby%20Rose%2Fbafa16d4-04ab-43f2-83b8-88db8bb94404?alt=media&token=d8b5b21a-a7b7-4c58-84cd-a4465ca45fd9",
+        "imagem1Download1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FPrep%20%2B%20Primer%20Facial%20Feels%20Ruby%20Rose%2Fbafa16d4-04ab-43f2-83b8-88db8bb944041?alt=media&token=2e117e51-2a87-45ca-a3e4-c471ff7adde9",
+        "imagem1Download2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FPrep%20%2B%20Primer%20Facial%20Feels%20Ruby%20Rose%2Fbafa16d4-04ab-43f2-83b8-88db8bb944042?alt=media&token=7ff1d1b1-fc68-4b77-acd0-fef20bdeb94c",
+        "imagem1Download3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FPrep%20%2B%20Primer%20Facial%20Feels%20Ruby%20Rose%2Fbafa16d4-04ab-43f2-83b8-88db8bb944043?alt=media&token=d4e0909e-b625-4ea1-aee9-0229e7b19d4d",
+        "imagem1ID" : "bafa16d4-04ab-43f2-83b8-88db8bb94404",
+        "imagem1ID1" : "bafa16d4-04ab-43f2-83b8-88db8bb944042",
+        "imagem1ID2" : "bafa16d4-04ab-43f2-83b8-88db8bb944043",
+        "imagem1ID3" : "bafa16d4-04ab-43f2-83b8-88db8bb944044",
+        "nome" : "Prep + Primer Facial Feels Ruby Rose",
+        "preco" : "26.00"
+      },
+      "c5744d22-fb9f-429a-bd29-c9414c8b73bd" : {
+        "Perfil" : {
+          "Users" : {
+            "quantidade" : 1
+          }
+        },
+        "descricao" : "LANÇAMENTO SP COLORS: Paleta de sombra com 9 cores \"Coleção Tropical\" - Excelente pigmentação e qualidade!\n\n-Não testado em animais;\n-Peso: 6g;\n- Tamanho: Aproximadamente 8 cm",
+        "id" : "c5744d22-fb9f-429a-bd29-c9414c8b73bd",
+        "imagem1Download" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FPaleta%20de%20Sombra%20-%209%20CORES%2Fc5744d22-fb9f-429a-bd29-c9414c8b73bd?alt=media&token=8025fcd6-f94f-48b3-bee1-a82410a1688c",
+        "imagem1Download1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FPaleta%20de%20Sombra%20-%209%20CORES%2Fc5744d22-fb9f-429a-bd29-c9414c8b73bd1?alt=media&token=b47a10a1-3216-49d0-8f1d-f5d542d7f35e",
+        "imagem1Download2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FPaleta%20de%20Sombra%20-%209%20CORES%2Fc5744d22-fb9f-429a-bd29-c9414c8b73bd2?alt=media&token=ac68024e-e985-43c4-b406-e2d178cadb73",
+        "imagem1Download3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FPaleta%20de%20Sombra%20-%209%20CORES%2Fc5744d22-fb9f-429a-bd29-c9414c8b73bd3?alt=media&token=66c8ed7c-61ab-4e59-8102-7817a2573d74",
+        "imagem1ID" : "c5744d22-fb9f-429a-bd29-c9414c8b73bd",
+        "imagem1ID1" : "c5744d22-fb9f-429a-bd29-c9414c8b73bd1",
+        "imagem1ID2" : "c5744d22-fb9f-429a-bd29-c9414c8b73bd4",
+        "imagem1ID3" : "c5744d22-fb9f-429a-bd29-c9414c8b73bd3",
+        "nome" : "Paleta de Sombra - 9 CORES",
+        "preco" : "18.90"
+      },
+      "d2896ac5-e1ac-4eac-a9c2-c83fbf62344b" : {
+        "Perfil" : {
+          "Users" : {
+            "quantidade" : 1
+          }
+        },
+        "descricao" : "Auxilia na remoção de oleosidade promovendo leve esfoliação graças ao carvão ativado entregue por cápsulas biotecnológicas.\n\nO resultado é uma pele iluminada. Além disso sua fórmula é vegana pois não contém ingredientes de origem animal.\nÉ maravilhoso 😍",
+        "id" : "d2896ac5-e1ac-4eac-a9c2-c83fbf62344b",
+        "imagem1Download" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Beads%20Carv%C3%A3o%20Ativado%2Fd2896ac5-e1ac-4eac-a9c2-c83fbf62344b?alt=media&token=650b4686-d53e-4149-9a17-6e995ddfeee0",
+        "imagem1Download1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Beads%20Carv%C3%A3o%20Ativado%2Fd2896ac5-e1ac-4eac-a9c2-c83fbf62344b1?alt=media&token=ce673086-de5b-4d3a-bef0-cbde1ece2e3c",
+        "imagem1Download2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Beads%20Carv%C3%A3o%20Ativado%2Fd2896ac5-e1ac-4eac-a9c2-c83fbf62344b2?alt=media&token=7e74ad91-de09-48dd-a581-32d38b65769e",
+        "imagem1Download3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Beads%20Carv%C3%A3o%20Ativado%2Fd2896ac5-e1ac-4eac-a9c2-c83fbf62344b3?alt=media&token=bfa9d57a-64e3-4f06-afea-2c517815acdf",
+        "imagem1ID" : "d2896ac5-e1ac-4eac-a9c2-c83fbf62344b",
+        "imagem1ID1" : "d2896ac5-e1ac-4eac-a9c2-c83fbf62344b2",
+        "imagem1ID2" : "d2896ac5-e1ac-4eac-a9c2-c83fbf62344b3",
+        "imagem1ID3" : "d2896ac5-e1ac-4eac-a9c2-c83fbf62344b4",
+        "nome" : "Sérum Facial Beads Carvão Ativado",
+        "preco" : "14.90"
+      },
+      "e0fb688d-71ec-433a-94f0-250296664c42" : {
+        "Perfil" : {
+          "Users" : {
+            "quantidade" : 1
+          }
+        },
+        "descricao" : "O Sérum Facial Chá Verde Max Love foi desenvolvido para fazer parte da sua rotina de skincare. Ação calmante e tonificante.\nCom uma poderosa fórmula com extratos de chá verde, aloe vera, algas marinhas, alecrim e erva doce que juntos estimulam o fluxo sanguíneo e proporcionam ação antioxidante, cicatrizante, calmante e tonificante, garantindo um viço natural da pele.\nTambém contém Ácido Hialurônico e Colágeno que auxiliam na hidratação e sustentação da pele.",
+        "id" : "e0fb688d-71ec-433a-94f0-250296664c42",
+        "imagem1Download" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Ch%C3%A1%20Verde%20Max%20Love%2Fe0fb688d-71ec-433a-94f0-250296664c42?alt=media&token=f430116c-836f-4780-aec8-8a83a791a051",
+        "imagem1Download1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Ch%C3%A1%20Verde%20Max%20Love%2Fe0fb688d-71ec-433a-94f0-250296664c42?alt=media&token=f430116c-836f-4780-aec8-8a83a791a051",
+        "imagem1Download2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Ch%C3%A1%20Verde%20Max%20Love%2Fe0fb688d-71ec-433a-94f0-250296664c422?alt=media&token=caa34c5f-207f-48ad-9108-44daa96f39c3",
+        "imagem1Download3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Ch%C3%A1%20Verde%20Max%20Love%2Fe0fb688d-71ec-433a-94f0-250296664c423?alt=media&token=00df9691-c0b2-48a3-bee8-a69071a7a24b",
+        "imagem1ID" : "e0fb688d-71ec-433a-94f0-250296664c42",
+        "imagem1ID1" : "e0fb688d-71ec-433a-94f0-250296664c421",
+        "imagem1ID2" : "e0fb688d-71ec-433a-94f0-250296664c423",
+        "imagem1ID3" : "e0fb688d-71ec-433a-94f0-250296664c424",
+        "nome" : "Sérum Facial Chá Verde Max Love",
+        "preco" : "14.90"
+      },
+      "e3dbc172-945e-4843-bf7f-aa99db3a7fa7" : {
+        "Perfil" : {
+          "Users" : {
+            "quantidade" : 1
+          }
+        },
+        "descricao" : "Modo de uso:\n\nMolhe a esponja com água e insira seu gel/creme de limpeza favorito na parte inferior.\nAperte-a suavemente repetidas vezes, até que a espuma apareça no topo.\nUse a parte superior para limpeza do rosto através de movimentos circulares.\nUse a parte inferior para massagear a pele após a limpeza, com movimentos circulares, começando pelo centro do rosto.",
+        "id" : "e3dbc172-945e-4843-bf7f-aa99db3a7fa7",
+        "imagem1Download" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FPolvo%20Limpeza%20Facial%2Fe3dbc172-945e-4843-bf7f-aa99db3a7fa7?alt=media&token=2518f27d-d10c-4115-8a2b-7b9a9639d106",
+        "imagem1Download1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FPolvo%20Limpeza%20Facial%2Fe3dbc172-945e-4843-bf7f-aa99db3a7fa71?alt=media&token=3c9b3f02-0bc3-43ea-8bac-c3f0562984d2",
+        "imagem1Download2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FPolvo%20Limpeza%20Facial%2Fe3dbc172-945e-4843-bf7f-aa99db3a7fa72?alt=media&token=bcd6630b-e920-4c49-9545-a37f27252ea2",
+        "imagem1Download3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FPolvo%20Limpeza%20Facial%2Fe3dbc172-945e-4843-bf7f-aa99db3a7fa73?alt=media&token=e8c4933c-bc2b-4dbb-bede-736b0212cca7",
+        "imagem1ID" : "e3dbc172-945e-4843-bf7f-aa99db3a7fa7",
+        "imagem1ID1" : "e3dbc172-945e-4843-bf7f-aa99db3a7fa71",
+        "imagem1ID2" : "e3dbc172-945e-4843-bf7f-aa99db3a7fa73",
+        "imagem1ID3" : "e3dbc172-945e-4843-bf7f-aa99db3a7fa74",
+        "nome" : "Polvo Limpeza Facial",
+        "preco" : "8.90"
+      },
+      "e76b686d-dec1-4ff4-9c90-8d519df04080" : {
+        "Perfil" : {
+          "Users" : {
+            "quantidade" : 1
+          }
+        },
+        "descricao" : "pele sem brilho, lisinha e perfeita? tudo isso você encontra no pó banana feels, da ruby rose!\n\n \n\ndesenvolvido para finalizar e fixar a maquiagem, esse queridinho proporciona efeito porcelana e ajuda no controle do brilho, deixando a pele sequinha e macia. ele possui textura fininha que facilita na hora da aplicação.\n\n \n\no produtinho é indicado para todos os tons de pele, mas fica ainda mais incrível em peles negras, pois manda o efeito acinzentado para bem longe. garanta já o seu aqui na maquiadoro!\n\n \n\nespecificações técnicas:\n♥ conteúdo: 15 g\n\n \n\n♥ tamanho: 6,7 cm\n\n \n\n♥ composição: talc, dimethicone/vinyl dimethicone crosspolymer, silica, hidrated sílica, propylparaben, triclosan, bht, parfum, amyl cinnamal, benzyl salicylate, cinnamyl alcohol, citromellol, geraniol, linalool. pode conter: ci 77491, ci 77492\n\n \n\ncomo usar pó solto:\n♥ utilizando a esponjinha ou, se preferir, um pincel para pó, aplique levemente o produto sobre o rosto ou apenas na zona t (testa, nariz e queixo)\n\n \n\n♥ retire bem o excesso de pó após a aplicação para que o acabamento fique ainda mais bonito\n\n \n\n♥ finalize com uma bruma para deixar o resultado ainda mais natural",
+        "id" : "e76b686d-dec1-4ff4-9c90-8d519df04080",
+        "imagem1Download" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FP%C3%B3%20Banana%20Feels%20-%20Ruby%20Rose%2Fe76b686d-dec1-4ff4-9c90-8d519df04080?alt=media&token=677231a0-4e96-44be-80fe-a90bf1e2f755",
+        "imagem1Download1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FP%C3%B3%20Banana%20Feels%20-%20Ruby%20Rose%2Fe76b686d-dec1-4ff4-9c90-8d519df040801?alt=media&token=c10d29f0-7bdf-478b-868b-245fe48e2f08",
+        "imagem1Download2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FP%C3%B3%20Banana%20Feels%20-%20Ruby%20Rose%2Fe76b686d-dec1-4ff4-9c90-8d519df040802?alt=media&token=c6decd42-3e02-426a-a518-31497267c47a",
+        "imagem1Download3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FP%C3%B3%20Banana%20Feels%20-%20Ruby%20Rose%2Fe76b686d-dec1-4ff4-9c90-8d519df040803?alt=media&token=3f4638cc-ab9d-4025-8586-7c977be06f11",
+        "imagem1ID" : "e76b686d-dec1-4ff4-9c90-8d519df04080",
+        "imagem1ID1" : "e76b686d-dec1-4ff4-9c90-8d519df040802",
+        "imagem1ID2" : "e76b686d-dec1-4ff4-9c90-8d519df040803",
+        "imagem1ID3" : "e76b686d-dec1-4ff4-9c90-8d519df040804",
+        "nome" : "Pó Banana Feels - Ruby Rose",
+        "preco" : "19.90"
+      },
+      "f3bc5d19-72e6-4eb0-936e-30217e81c122" : {
+        "Perfil" : {
+          "Users" : {
+            "quantidade" : 1
+          }
+        },
+        "descricao" : "Sérum facial da Max Love é um produto multifuncional que seve como regulador de oleosidade e além disso ele possui a função de primer, preparando a pele para receber a maquiagem e ainda controla o brilho facial sem causar ressecamento.\n\nCom Pró-Vitamina B5 e Colágen",
+        "id" : "f3bc5d19-72e6-4eb0-936e-30217e81c122",
+        "imagem1Download" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Max%20Love%2Ff3bc5d19-72e6-4eb0-936e-30217e81c122?alt=media&token=aa1ad89b-1ad6-4048-beb3-752da41c4c92",
+        "imagem1Download1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Max%20Love%2Ff3bc5d19-72e6-4eb0-936e-30217e81c1221?alt=media&token=a3ca5ce4-d876-4af2-a897-f4964ecf23b6",
+        "imagem1Download2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Max%20Love%2Ff3bc5d19-72e6-4eb0-936e-30217e81c1222?alt=media&token=e126a634-72e7-45a4-af56-9e1635c3b665",
+        "imagem1Download3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FS%C3%A9rum%20Facial%20Max%20Love%2Ff3bc5d19-72e6-4eb0-936e-30217e81c1223?alt=media&token=fe363793-eb4c-41d7-9730-74a9938f1762",
+        "imagem1ID" : "f3bc5d19-72e6-4eb0-936e-30217e81c122",
+        "imagem1ID1" : "f3bc5d19-72e6-4eb0-936e-30217e81c1221",
+        "imagem1ID2" : "f3bc5d19-72e6-4eb0-936e-30217e81c1223",
+        "imagem1ID3" : "f3bc5d19-72e6-4eb0-936e-30217e81c1224",
+        "nome" : "Sérum Facial Max Love",
+        "preco" : "15.00"
+      },
+      "f43de426-d00f-4ca5-bc6a-e62a3424413e" : {
+        "Perfil" : {
+          "Users" : {
+            "quantidade" : 1
+          }
+        },
+        "descricao" : "Use a Sombra Para Sobrancelhas e tenha uma olhar perfeito e definido!\n\nA Sombra Para Sobrancelhas da Ruby Rose tem uma alta pigmentação, contendo um espelho e três cores de sombras, Marrom Claro, Marrom Médio e Preto acompanhado por um primer para uma alta duração e fixação da sua maquiagem.\nContém um pincel duo, podendo ser usado para delinear e esfumar.\n\nIndicado: Para todos os tons de sobrancelhas\n\nPara criar o desenho perfeito de sua sobrancelha, siga o passo a passo abaixo.\n\n1- O primer pode ser aplicado para fixar melhor a sombra.\n2- Feito isso, escolha a cor da sombra que seja mais semelhante ao tom do pelo da sobrancelha.\n3- Marque toda a parte debaixo primeira, do começo ao fim.\n4- Depois disso, arraste toda a sombra aplicada por toda a sobrancelha, para criar um efeito natural.\n5- Pegue mais sombra e aplique na parte mais alta da sobrancelha, para destacar mais o olhar.\n6- Após isso, pegue o corretivo Ruby Rose no tom da sua pele e com o auxilio de um pincel de cerdas sintéticas, aplique nos limites da sobrancelha demarcando o formato desejado.\n7- Faça a mesma coisa em cima e depois esfume bem!\n8- Agora você tem uma sobrancelha natural e sem falhas.",
+        "id" : "f43de426-d00f-4ca5-bc6a-e62a3424413e",
+        "imagem1Download" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FQuarteto%20para%20Sobrancelhas%20Ruby%20Rose%2Ff43de426-d00f-4ca5-bc6a-e62a3424413e?alt=media&token=89852c73-f774-4661-aed9-2b65b4495adb",
+        "imagem1Download1" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FQuarteto%20para%20Sobrancelhas%20Ruby%20Rose%2Ff43de426-d00f-4ca5-bc6a-e62a3424413e1?alt=media&token=cd9f36fd-ecbc-44f5-aac2-cb95ae107979",
+        "imagem1Download2" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FQuarteto%20para%20Sobrancelhas%20Ruby%20Rose%2Ff43de426-d00f-4ca5-bc6a-e62a3424413e2?alt=media&token=458a187e-aced-40ad-8046-c5add19efe46",
+        "imagem1Download3" : "https://firebasestorage.googleapis.com/v0/b/bekastore-724b3.appspot.com/o/Produtos%2FImagem%2FQuarteto%20para%20Sobrancelhas%20Ruby%20Rose%2Ff43de426-d00f-4ca5-bc6a-e62a3424413e3?alt=media&token=55eafb16-79f3-4879-b823-0e10524ec8a9",
+        "imagem1ID" : "f43de426-d00f-4ca5-bc6a-e62a3424413e",
+        "imagem1ID1" : "f43de426-d00f-4ca5-bc6a-e62a3424413e2",
+        "imagem1ID2" : "f43de426-d00f-4ca5-bc6a-e62a3424413e3",
+        "imagem1ID3" : "f43de426-d00f-4ca5-bc6a-e62a3424413e4",
+        "nome" : "Quarteto para Sobrancelhas Ruby Rose",
+        "preco" : "14.90"
+      }
+    }
+  }
+}
